@@ -1,0 +1,74 @@
+﻿<Page
+    x:Class="WorkoutAssistant.WorkoutPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WorkoutAssistant"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <ScrollViewer Height="282" Width="380" Margin="10,61,10,297" Background="Black" BorderBrush="White" BorderThickness="2">
+            <ListView 
+                x:Name="workoutListView" 
+                HorizontalAlignment="Left" 
+                Height="282"
+                VerticalAlignment="Top"
+                Width="380"
+                RenderTransformOrigin="0.5,0.5"
+                DataContext="{Binding}" 
+                Loaded="workoutListView_Loaded" SelectionChanged="workoutListView_SelectionChanged">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock 
+                                    x:Name="templateBlock"
+                                    HorizontalAlignment="Left"
+                                    Margin="0,15,0,15"
+                                    TextWrapping="Wrap"
+                                    FontSize="25"
+                                    Text="{Binding name}">
+                        </TextBlock>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollViewer>
+        <ScrollViewer Height="282" Width="380" Margin="10,348,10,10" BorderBrush="White" BorderThickness="2">
+            <ListView
+                x:Name="subWorkoutListView"
+                HorizontalAlignment="Left" 
+                Height="282"
+                VerticalAlignment="Top"
+                Width="380"
+                RenderTransformOrigin="0.5,0.5"
+                DataContext="{Binding}" 
+                Loaded="subWorkoutListView_Loaded" 
+                SelectionChanged="subWorkoutListView_SelectionChanged"
+                Visibility="Collapsed">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock
+                            x:Name="subWorkoutTextBlock"
+                            HorizontalAlignment="Left"
+                            Margin="0,15,0,15"
+                            TextWrapping="Wrap"
+                            FontSize="25"
+                            Text="{Binding name}">
+                        </TextBlock>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollViewer>
+        <TextBlock 
+            x:Name="titleBlock" 
+            HorizontalAlignment="Center" 
+            Margin="0,0,5,0" 
+            TextWrapping="Wrap" Text="Workouts" 
+            VerticalAlignment="Top" 
+            Height="61" 
+            Width="395" 
+            TextAlignment="Center" 
+            FontSize="50">
+        </TextBlock>
+    </Grid>
+</Page>

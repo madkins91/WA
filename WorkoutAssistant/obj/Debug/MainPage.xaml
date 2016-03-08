@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="WorkoutAssistant.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WorkoutAssistant"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Button x:ConnectionId='1' x:Name="workoutButton" Content="Workouts" HorizontalAlignment="Left" Margin="143,341,0,0" VerticalAlignment="Top"                            />
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Center" Margin="143,10,146,0" TextWrapping="Wrap" Text="Workout Assistant" VerticalAlignment="Top" Height="57" Width="111" FontSize="25"/>
+
+    </Grid>
+</Page>
+
