@@ -1,1 +1,1 @@
-G:\VS Projects\Workout Assistant\WorkoutAssistant\WorkoutAssistant.csproj;neutral
+G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\WorkoutAssistant.csproj;neutral

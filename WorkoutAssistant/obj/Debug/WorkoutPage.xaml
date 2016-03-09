@@ -9,13 +9,13 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <ScrollViewer Height="282" Width="380" Margin="10,61,10,297" Background="Black" BorderBrush="White" BorderThickness="2">
+        <ScrollViewer Height="272" Width="370" Margin="5,61,5,307" BorderBrush="White" BorderThickness="1">
             <ListView x:ConnectionId='2' 
                 x:Name="workoutListView" 
                 HorizontalAlignment="Left" 
-                Height="282"
+                Height="240"
                 VerticalAlignment="Top"
-                Width="380"
+                Width="370"
                 RenderTransformOrigin="0.5,0.5"
                 DataContext="{Binding}" 
                                                                                                    >
@@ -33,13 +33,13 @@
                 </ListView.ItemTemplate>
             </ListView>
         </ScrollViewer>
-        <ScrollViewer Height="282" Width="380" Margin="10,348,10,10" BorderBrush="White" BorderThickness="2">
+        <ScrollViewer Height="272" Width="370" Margin="5,348,5,10" BorderBrush="White" BorderThickness="1">
             <ListView x:ConnectionId='1'
                 x:Name="subWorkoutListView"
                 HorizontalAlignment="Left" 
-                Height="282"
+                Height="240"
                 VerticalAlignment="Top"
-                Width="380"
+                Width="370"
                 RenderTransformOrigin="0.5,0.5"
                 DataContext="{Binding}" 
                                                    

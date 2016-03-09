@@ -9,55 +9,55 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>83e19b09-9150-4603-ae80-9423f0237b96</PackageIdentityName>
-    <IntermediateOutputPath>G:\VS Projects\Workout Assistant\WorkoutAssistant\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="G:\VS Projects\Workout Assistant\WorkoutAssistant\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WorkoutAssistant\bin\Debug\WorkoutAssistant.exe">
+    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\bin\Debug\WorkoutAssistant.exe">
       <PackagePath>WorkoutAssistant.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WorkoutAssistant\Assets\Logo.scale-240.png">
+    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WorkoutAssistant\Assets\SmallLogo.scale-240.png">
+    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WorkoutAssistant\Assets\SplashScreen.scale-240.png">
+    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\Assets\SplashScreen.scale-240.png">
       <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WorkoutAssistant\Assets\Square71x71Logo.scale-240.png">
+    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\Assets\Square71x71Logo.scale-240.png">
       <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WorkoutAssistant\Assets\StoreLogo.scale-240.png">
+    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\Assets\StoreLogo.scale-240.png">
       <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WorkoutAssistant\Assets\WideLogo.scale-240.png">
+    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\Assets\WideLogo.scale-240.png">
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WorkoutAssistant\bin\Debug\WorkoutAssistant.xr.xml">
+    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\bin\Debug\WorkoutAssistant.xr.xml">
       <PackagePath>WorkoutAssistant.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WorkoutAssistant\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WorkoutAssistant\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WorkoutAssistant\bin\Debug\WorkoutPage.xbf">
+    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\bin\Debug\WorkoutPage.xbf">
       <PackagePath>WorkoutPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WorkoutAssistant\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
