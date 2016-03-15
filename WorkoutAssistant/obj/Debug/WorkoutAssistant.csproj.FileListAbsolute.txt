@@ -72,3 +72,40 @@ G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\obj\Debug\qualifiers.txt
 G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\obj\Debug\qualifiers.txt.intermediate
 G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\obj\Debug\ProjectArchitectures.txt
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\bin\Debug\App.xbf
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\bin\Debug\MainPage.xbf
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\bin\Debug\WorkoutPage.xbf
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\bin\Debug\WorkoutAssistant.xr.xml
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\bin\Debug\WorkoutAssistant.exe
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\bin\Debug\WorkoutAssistant.pdb
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\bin\Debug\resources.pri
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\bin\Debug\AppxManifest.xml
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\bin\Debug\WorkoutAssistant.build.appxrecipe
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\App.g.i.cs
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\App.g.cs
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\MainPage.g.i.cs
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\MainPage.g.cs
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\WorkoutPage.g.i.cs
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\WorkoutPage.g.cs
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\App.xaml
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\MainPage.xaml
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\WorkoutPage.xaml
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\App.xbf
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\MainPage.xbf
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\WorkoutPage.xbf
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\WorkoutAssistant.exe
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\WorkoutAssistant.pdb
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\priconfig.xml
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\priconfig.xml.intermediate
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\layout.resfiles
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\layout.resfiles.intermediate
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\resources.resfiles
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\resources.resfiles.intermediate
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\pri.resfiles
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\pri.resfiles.intermediate
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\qualifiers.txt
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\ProjectArchitectures.txt

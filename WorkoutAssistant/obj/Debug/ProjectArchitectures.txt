@@ -1,1 +1,1 @@
-G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\WorkoutAssistant.csproj;neutral
+C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\WorkoutAssistant.csproj;neutral

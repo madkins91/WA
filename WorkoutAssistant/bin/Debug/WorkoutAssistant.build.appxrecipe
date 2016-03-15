@@ -1,63 +1,63 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>MIKEL</Machine>
-    <WindowsUser>Primary</WindowsUser>
+    <Machine>SCHOOL-PC</Machine>
+    <WindowsUser>Mikel</WindowsUser>
     <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
     <TargetOsVersion>6.3</TargetOsVersion>
     <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>83e19b09-9150-4603-ae80-9423f0237b96</PackageIdentityName>
-    <IntermediateOutputPath>G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\bin\Debug\WorkoutAssistant.exe">
+    <AppxPackagedFile Include="C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\bin\Debug\WorkoutAssistant.exe">
       <PackagePath>WorkoutAssistant.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\Assets\Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\Assets\SmallLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\Assets\SplashScreen.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\Assets\SplashScreen.scale-240.png">
       <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\Assets\Square71x71Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\Assets\Square71x71Logo.scale-240.png">
       <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\Assets\StoreLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\Assets\StoreLogo.scale-240.png">
       <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\Assets\WideLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\Assets\WideLogo.scale-240.png">
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\bin\Debug\WorkoutAssistant.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\bin\Debug\WorkoutAssistant.xr.xml">
       <PackagePath>WorkoutAssistant.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\bin\Debug\WorkoutPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\bin\Debug\WorkoutPage.xbf">
       <PackagePath>WorkoutPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="G:\VS Projects\Workout Assistant\WA\WorkoutAssistant\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Mikel\Documents\GitHub\WA\WorkoutAssistant\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
